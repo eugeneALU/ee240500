@@ -8,7 +8,8 @@ The result will be calculated and shown on the website(run on localhost). It wil
 of the small ball on the web.
 * **More on wikipage** : https://github.com/eugeneALU/ee240500/wiki/Midterm-report (In Chinese)
 ## Final 
-### Abstract:  Using webcam to capture the finger and control the robut through the button that show on the screen.
+### Abstract:  
+Using webcam to capture the finger and control the robut through the button that show on the screen.
 1. Using webcam to capture the image and processed using openCV
 2. Get the position of the fingertip
 3. There will be four button show on the screen and when fingertip move into the corresponding button the robust will move depend on 
