@@ -15,4 +15,4 @@ Using webcam to capture the finger and control the robut through the button that
 3. There will be four button show on the screen and when fingertip move into the corresponding button the robust will move depend on 
    which button you point to.
 * **More on wikipage** : https://github.com/eugeneALU/ee240500/wiki/Final-Project-report (In Chinese) 
-* **Demo youtube link**: https://www.youtube.com/watch?v=bdI94Z1mYqI
+* **Demo**: https://www.youtube.com/watch?v=bdI94Z1mYqI
